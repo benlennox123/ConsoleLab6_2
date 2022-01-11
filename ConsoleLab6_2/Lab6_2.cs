@@ -23,7 +23,7 @@ namespace ConsoleLab6_1
             int L = slovo2.Length;
             for (int i = L-1; i >=0; i--)
             {
-                slovo3 += Massiv2[i].ToString(); ;
+                slovo3 += Massiv2[i].ToString();
             }
             Console.WriteLine(slovo1);
             Console.WriteLine();
